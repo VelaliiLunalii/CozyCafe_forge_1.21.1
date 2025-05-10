@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:beach",
+  "features": "cozycafe:palm_beach_placed",
+  "step": "vegetal_decoration"
+}

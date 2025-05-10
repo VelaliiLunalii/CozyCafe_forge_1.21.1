@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:desert",
+  "features": "cozycafe:palm_desert_placed",
+  "step": "vegetal_decoration"
+}

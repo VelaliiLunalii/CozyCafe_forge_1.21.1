@@ -1,0 +1,5 @@
+// 1.21.1	2025-05-03T15:02:41.6480918	Global Loot Modifiers : cozycafe
+3e29cb8c1e79f9ea5ef6dac26521307dfe2c1045 data/cozycafe/loot_modifiers/guava_fruit_from_jungle_leaves.json
+554198fd6a022c1b30925efa5e4b101f53384db7 data/cozycafe/loot_modifiers/tea_leaves_from_short_grass.json
+a18093750eaad597f6bf8e9cbdc6b916ece3081d data/cozycafe/loot_modifiers/tea_leaves_from_tall_grass.json
+9f06493faac0bf7835529404d3a4616462cb7693 data/forge/loot_modifiers/global_loot_modifiers.json
